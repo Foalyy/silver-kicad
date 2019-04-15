@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ATSAM4)(type Legacy)(uri ${KIPRJMOD}/libs/ATSAM4.lib)(options "")(descr ""))
+  (lib (name lora_RFM9x)(type Legacy)(uri ${KIPRJMOD}/libs/lora_RFM9x.lib)(options "")(descr ""))
+  (lib (name voltage_detector)(type Legacy)(uri ${KIPRJMOD}/libs/voltage_detector.lib)(options "")(descr ""))
+  (lib (name jack_trrs_switch)(type Legacy)(uri ${KIPRJMOD}/libs/jack_trrs_switch.lib)(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMS33460
+D 3.0V undervoltage detector
+F http://www.ti.com/lit/ds/symlink/lms33460.pdf
+$ENDCMP
+#
+#End Doc Library

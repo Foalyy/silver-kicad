@@ -1,0 +1,7 @@
+fp-info-cache
+*.kicad_pcb-bak
+*.bck
+*.000
+*.bak
+*-rescue.lib
+*-cache.lib
