@@ -2,7 +2,7 @@
 
 Silver is an open-source project aiming at making a long-range and fully-featured camera remote control.
 
-See https://silica.io/ for a more detailed build log of the project.
+See https://silica.io/tag/silver/ for a more detailed build log of the project.
 
 This is the repository of the Kicad project with the schematic and layout of the board. See the main repository at https://github.com/Foalyy/silver-firmware.
 
